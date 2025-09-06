@@ -1,5 +1,5 @@
-# Simple Book Tracker Support
+# Simple Music Tracker Support
 
-Support website for the Simple Book Tracker iOS app.
+Support website for the Simple Music Tracker iOS app. Available on the App Store
 
-Visit: https://davidrhb.github.io/simplebooktracker-support/
+Visit: https://davidrhb.github.io/simplemusictracker-support/
